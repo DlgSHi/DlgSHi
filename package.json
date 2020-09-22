@@ -1,0 +1,27 @@
+{
+  "name": "dlgshi",
+  "version": "1.0.0",
+  "description": "the readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DlgSHi/DlgSHi.git"
+  },
+  "keywords": [
+    "readme",
+    "qa",
+    "automation"
+  ],
+  "author": "Igor Dlugosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DlgSHi/DlgSHi/issues"
+  },
+  "homepage": "https://github.com/DlgSHi/DlgSHi#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
