@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> I'm Igor, automation QA engineer from <b>Ivano-Frankivsk, Ukraine</b>, currently living in <b>Wrocław, Poland</b>. 
-</p>
-</br> I am a software tester with 5+ years of experience (automation & manual).
+<p> </br> I'm Igor, automation QA engineer with 5+ years of experience (automation & manual).
 Have an excellent problem solving and analytical skills, strong experience in test strategy and procedures throughout the life cycle of a project from specification reviews through to user acceptance, with strong expertise in automation test tools and designing and implementing automation test suites to ensure high-quality of the software.
 </br> While working as a test engineer have a possibility to work on a complex web-based; iOS and Android application. 
 <p>
