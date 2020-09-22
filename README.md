@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-
 <p> </br> I'm Igor, automation QA engineer from <b>Ivano-Frankivsk, Ukraine</b>, currently living in <b>Wrocław, Poland</b>. 
 </p>
 </br> I am a software tester with 5+ years of experience (automation & manual).
