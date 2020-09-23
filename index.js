@@ -18,6 +18,14 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Warsaw',
   }),
+  startDate: "2015/08/01 00:00:00",
+  yearsOfExp: function() {
+    return Math.abs(Math.round(new Date().getFullYear() - new Date(this.startDate).getFullYear()));
+  },
+  monthOfExp: function() {
+    let diff = Math.abs(Math.round(new Date().getMonth() - new Date(this.startDate).getMonth()));
+    return diff == 1 ? `${diff} month` : `${diff} months`
+  }
 };
 /**
   * A - We open 'main.mustache'
