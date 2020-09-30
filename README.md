@@ -5,8 +5,8 @@ Have an excellent problem solving and analytical skills, strong experience in te
 </br> While working as a test engineer have a possibility to work on a complex web-based; iOS and Android application. 
 <p>
 </br> Have experience with API (using postman / soapUI); different RDB (Oracle, MySQL). I have a strong understanding of OOP principles. 
-</br> During my way, I have became a good team player, obtained excellent interpersonal and communicative skills, and quick learning ability.
-</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JS & Cypress. I hope sharing my expertise helps people in their professional endeavours.
+</br> During my way, I have become a good team player, obtained excellent interpersonal and communicative skills, and quick learning ability.
+</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JS & Cypress. I hope sharing my expertise helps people in their professional endeavors.
 I really enjoy my work and always trying to do all my best to have client satisfied.
 </p>
 <h3>Things I work with:</h3>
@@ -40,5 +40,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 30 September, 08:19 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 30 September, 10:15 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
