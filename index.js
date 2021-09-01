@@ -19,7 +19,7 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Warsaw',
   }),
-  startDate: "2015/08/15",
+  startDate: "2015/08/01",
   expTime: function () {
     return dateDiff(this.startDate);
   },
