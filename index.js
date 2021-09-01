@@ -1,6 +1,7 @@
 // index.js
 const Mustache = require('mustache');
 const fs = require('fs');
+const dateDiff = require('./helper');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 /**
   * DATA is the object that contains all
@@ -18,14 +19,10 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Warsaw',
   }),
-  startDate: "2015/08/01 00:00:00",
-  yearsOfExp: function() {
-    return Math.abs(Math.round(new Date().getFullYear() - new Date(this.startDate).getFullYear()));
+  startDate: "2015/08/15",
+  expTime: function () {
+    return dateDiff(this.startDate);
   },
-  monthOfExp: function() {
-    let diff = Math.abs(Math.round(new Date().getMonth() - new Date(this.startDate).getMonth()));
-    return diff == 1 ? `${diff} month` : `${diff} months`
-  }
 };
 /**
   * A - We open 'main.mustache'
@@ -33,7 +30,7 @@ let DATA = {
   * C - We create a README.md file with the generated output
   */
 function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
+  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
