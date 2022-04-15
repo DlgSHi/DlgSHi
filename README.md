@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> I'm Igor, automation QA engineer with 6 years 8 months and 13 days of experience (automation & manual).
+<p> </br> I'm Igor, automation QA engineer with 6 years 8 months and 14 days of experience (automation & manual).
 Have an excellent problem solving and analytical skills, strong experience in test strategy and procedures throughout the life cycle of a project from specification reviews through to user acceptance, with strong expertise in automation test tools and designing and implementing automation test suites to ensure high-quality of the software.
 </br> While working as a test engineer have a possibility to work on a complex web-based; iOS and Android application. 
 <p>
@@ -40,5 +40,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 14 April, 23:18 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 15 April, 03:44 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
