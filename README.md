@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> I'm Igor, automation QA engineer with 7 years 2 months and 16 days of experience (automation & manual).
+<p> </br> I'm Igor, automation QA engineer with 7 years 2 months and 23 days of experience (automation & manual).
 Have an excellent problem solving and analytical skills, strong experience in test strategy and procedures throughout the life cycle of a project from specification reviews through to user acceptance, with strong expertise in automation test tools and designing and implementing automation test suites to ensure high-quality of the software.
 </br> While working as a test engineer have a possibility to work on a complex web-based; iOS and Android application. 
 <p>
 </br> Have experience with API (using postman / soapUI); different RDB (Oracle, MySQL). I have a strong understanding of OOP principles. 
 </br> During my way, I have become a good team player, obtained excellent interpersonal and communicative skills, and quick learning ability.
-</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JS & Cypress. I hope sharing my expertise helps people in their professional endeavors.
+</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JavaScript/TypeScript & Cypress. I hope sharing my expertise helps people in their professional endeavors.
 I really enjoy my work and always trying to do all my best to have client satisfied.
 </p>
 <h3>Things I work with:</h3>
@@ -17,7 +17,8 @@ I really enjoy my work and always trying to do all my best to have client satisf
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-2088FF?style=flat-square&logo=Maven&logoColor=white" />
 </p>
 <p>
-  <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" >
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" >
+  <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" >
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-45b8d8?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-45b8d8?style=flat-square&logo=npm&logoColor=white" />
   <img alt="cucumber preprocessor" src="https://img.shields.io/badge/-Cucumber_preprocessor-45b8d8?style=flat-square&logo=BDD&logoColor=white" />
@@ -30,9 +31,13 @@ I really enjoy my work and always trying to do all my best to have client satisf
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-FB542B?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="Travis" src="https://img.shields.io/badge/-Travis-FB542B?style=flat-square&logo=Travis&logoColor=white" />
   <img alt="TeamCity" src="https://img.shields.io/badge/-Team_City-FB542B?style=flat-square&logo=team_city&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-FB542B?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-FB542B?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+<h3>Speaker at the TestWarez2022 conference</h3>
+<p><a href="https://2022.testwarez.pl/speaker/igor-dlugosh/" target="_blank"><img alt="TestWarez2022" src="https://img.shields.io/badge/TestWarez2022-testing%20conference-brightgreen" /></a>
 </p>
 
 <h3>Where to find me</h3>
@@ -40,5 +45,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 17 October, 07:03 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 24 October, 09:01 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
