@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> Hi all :) I'm Igor, automation QA engineer with 8 years 3 months and 21 days of experience (automation & manual) in a variety of industries and technologies. 
+<p> </br> Hi all :) I'm Igor, automation QA engineer with 8 years 3 months and 22 days of experience (automation & manual) in a variety of industries and technologies. 
 </br> Huge passionate for developing and implementing process improvements through the use of CI/CD tools and paralelisation. 
 </br> Ability to lead cross-functional Testing teams in the design, development, and deployment using the automation solutions. 
 <p>
@@ -42,6 +42,14 @@ I really enjoy my work and always trying to do all my best to have client satisf
 <p><a href="https://2022.testwarez.pl/speaker/igor-dlugosh/" target="_blank"><img alt="TestWarez2022" src="https://img.shields.io/badge/TestWarez2022-testing%20conference-brightgreen" /></a>
 </p>
 
+<h3>Speaker at the Warszawskie Dni Informatyki 2023 conference</h3>
+<p><a href="https://warszawskiedniinformatyki.pl/en/" target="_blank"><img alt="WDI-2023" src="https://img.shields.io/badge/WDI-2023%2FIT-Conference?logoColor=blue&labelColor=yellow" /></a>
+</p>
+
+<h3>Speaker at the TestWarez2023 conference</h3>
+<p><a href="https://2023.testwarez.pl/speakerzy/igor-dlugosh/" target="_blank"><img alt="TestWarez2023" src="https://img.shields.io/badge/TestWarez2023-tesing-conference" /></a>
+</p>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dlgshi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/igor-dlugosh-8614b075/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -49,5 +57,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 22 November, 07:22 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 22 November at 07:36 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
