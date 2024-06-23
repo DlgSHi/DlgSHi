@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> Hi all :) I'm Igor, automation QA engineer with 8 years 10 months and 21 days of experience (automation & manual) in a variety of industries and technologies. 
+<p> </br> Hi all :) I'm Igor, automation QA engineer with 8 years 10 months and 22 days of experience (automation & manual) in a variety of industries and technologies. 
 </br> Huge passionate for developing and implementing process improvements through the use of CI/CD tools and paralelisation. 
 </br> Ability to lead cross-functional Testing teams in the design, development, and deployment using the automation solutions. 
 <p>
@@ -57,5 +57,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 22 June, 23:16 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 23 June, 03:22 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
