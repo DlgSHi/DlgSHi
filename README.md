@@ -1,14 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> Hi all :) I'm Igor, automation QA engineer with 9 years 0 months and 7 days of experience (automation & manual) in a variety of industries and technologies. 
-</br> Huge passionate for developing and implementing process improvements through the use of CI/CD tools and paralelisation. 
-</br> Ability to lead cross-functional Testing teams in the design, development, and deployment using the automation solutions. 
-<p>
-</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JavaScript/TypeScript & Cypress/Playwright. I hope sharing my expertise helps people in their professional endeavors.
-I really enjoy my work and always trying to do all my best to have client satisfied.
-</br> Key achievement: chaired the development of new testing approaches for a Sage core product, decreasing regression testing time from 6h to 5min. Working with various opensource repositories. Introduced few improvements for Cypress comunity.
-</br> Cypress/Playwright (JS/TS) keen fan.
-</p>
+<section>
+<p>Hi all :) I'm Igor, automation QA engineer with 9 years 0 months and 8 days of experience (automation & manual) in a variety of industries and technologies. Huge passionate for developing and implementing process improvements through the use of CI/CD tools and parallelization.</p>
+<p>Ability to lead cross-functional Testing teams in the design, development, and deployment using automation solutions. I never stop learning and I guess it is a key point in my career. I’m also working as a mentor on a few courses, supporting testers to become better as manual testers and as automation using JavaScript/TypeScript & Cypress/Playwright. I hope sharing my expertise helps people in their professional endeavors. I really enjoy my work and always try to do my best to have clients satisfied. Key achievement: chaired the development of new testing approaches for a Sage core product, decreasing regression testing time from 6h to 5min. Working with various open-source repositories. Introduced a few improvements for the Cypress community.</p>
+<h3>Cypress/Playwright (JS/TS) keen fan.</h3>
+</section>
 <h3>Things I work with:</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=for-the-badge&logo=java&logoColor=white" >
@@ -57,5 +53,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 8 August at 08:44 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 8 August at 08:58 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
