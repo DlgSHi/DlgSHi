@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
-<p> </br> Hi all :) I'm Igor, automation QA engineer with 9 years 0 months and 6 days of experience (automation & manual) in a variety of industries and technologies. 
+<p> </br> Hi all :) I'm Igor, automation QA engineer with 9 years 0 months and 8 days of experience (automation & manual) in a variety of industries and technologies. 
 </br> Huge passionate for developing and implementing process improvements through the use of CI/CD tools and paralelisation. 
 </br> Ability to lead cross-functional Testing teams in the design, development, and deployment using the automation solutions. 
 <p>
-</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JavaScript/TypeScript & Cypress. I hope sharing my expertise helps people in their professional endeavors.
+</br> I never stop learning and I guess it is key point in my career. I’m also working as a mentor on few courses, supporting testers to became better as manual testers and as automation using JavaScript/TypeScript & Cypress/Playwright. I hope sharing my expertise helps people in their professional endeavors.
 I really enjoy my work and always trying to do all my best to have client satisfied.
 </br> Key achievement: chaired the development of new testing approaches for a Sage core product, decreasing regression testing time from 6h to 5min. Working with various opensource repositories. Introduced few improvements for Cypress comunity.
-</br> Cypress (JS/TS) keen fan.
+</br> Cypress/Playwright (JS/TS) keen fan.
 </p>
 <h3>Things I work with:</h3>
 <p>
@@ -57,5 +57,5 @@ I really enjoy my work and always trying to do all my best to have client satisf
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 7 August, 14:47 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday 8 August at 08:30 CEST <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
