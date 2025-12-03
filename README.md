@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
 <section>
-<p>Hi all :) I'm Igor, automation QA engineer with 10 years 4 months and 1 day of experience (automation & manual) in a variety of industries and technologies. Huge passionate for developing and implementing process improvements through the use of CI/CD tools and parallelization.</p>
+<p>Hi all :) I'm Igor, automation QA engineer with 10 years 4 months and 2 days of experience (automation & manual) in a variety of industries and technologies. Huge passionate for developing and implementing process improvements through the use of CI/CD tools and parallelization.</p>
 <p>Ability to lead cross-functional Testing teams in the design, development, and deployment using automation solutions. I never stop learning and I guess it is a key point in my career. I’m also working as a mentor on a few courses, supporting testers to become better as manual testers and as automation using JavaScript/TypeScript & Cypress/Playwright. I hope sharing my expertise helps people in their professional endeavors. I really enjoy my work and always try to do my best to have clients satisfied. Key achievement: chaired the development of new testing approaches for a Sage core product, decreasing regression testing time from 6h to 5min. Working with various open-source repositories. Introduced a few improvements for the Cypress community.</p>
 <h3>Cypress/Playwright (JS/TS) keen fan.</h3>
 </section>
@@ -55,5 +55,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday 2 December at 02:52 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 3 December at 02:51 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
