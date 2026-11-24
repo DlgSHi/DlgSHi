@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my readme :)</h1>
 
 <section>
-<p>Hi all :) I'm Igor, founder of <a href="https://veilio.dev" target="_blank">Veilio</a> and Senior QA Automation Leader with 11 years 3 months and 22 days of experience across quality engineering, test automation, QA strategy and technical leadership. I specialize in TypeScript/JavaScript, Playwright and Cypress, designing scalable automation platforms across UI, API, integration and component layers.</p>
+<p>Hi all :) I'm Igor, founder of <a href="https://veilio.dev" target="_blank">Veilio</a> and Senior QA Automation Leader with 11 years 3 months and 23 days of experience across quality engineering, test automation, QA strategy and technical leadership. I specialize in TypeScript/JavaScript, Playwright and Cypress, designing scalable automation platforms across UI, API, integration and component layers.</p>
 <p>My current focus is applying Agentic AI and Skills Engineering across the full SDLC: I created a Playwright Agentic AI / Skills Toolkit built on reusable skills, project context, references, examples, tools and validation gates, and I use MCP, Hooks and Guards for controlled, governed AI tool execution.</p>
 <p>In 2026 I completed the Cloud DevOps Engineer Expert programme at WSB Merito, extending my QA expertise into CI/CD optimization, DevOps practices and cloud engineering. As Test Lead, Team Lead and Mentor I work on QA strategy, technical mentoring, recruitment, engineering standards and knowledge sharing. Key achievement: chaired the development of new testing approaches for a Sage core product, decreasing regression testing time from 6h to 5min. Contributor to open source, including improvements for the Cypress community.</p>
 <p><b>Agentic AI &amp; Skills Engineering • DevOps &amp; CI/CD • Cloud DevOps Engineer Expert (WSB Merito, 2026) • Google AI Leader</b></p>
@@ -72,5 +72,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday 23 November at 07:33 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday 24 November at 10:01 CET <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
